@@ -20,11 +20,12 @@ Wer beispielsweise Schnittstellen entwickeln kann, sich jedoch nicht selbst Geda
 - Positive / negative Beispiel – gutes und schlechtes UI- oder UX-Design 
 
 ein gutes UI/UX zeichnet sich durch einen einfach verständlichen Aufbau, klare Funktionsweisen und wenig Fragen die sich dem Benutzer bei dr Benutzung ergeben aus.
-ein schelchtes UI/UX zeichnet sich durch Unübersichtlichkeit, unklare FUnktionen und einen Mangel an hilfreichen Hinweisen zur Bedienung aus.
+ein schlechtes UI/UX zeichnet sich durch Unübersichtlichkeit, unklare FUnktionen und einen Mangel an hilfreichen Hinweisen zur Bedienung aus.
 - Aliexpress
 - Snapchat 2016
 - Drucker
 - Wurstverpackungen
+- https://userinyerface.com/
 
 - Allgemeine Prinzipien/Maßstäbe/Regeln/..., die verwendet werden können beim Design 
 
